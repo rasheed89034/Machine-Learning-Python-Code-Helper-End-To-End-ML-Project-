@@ -47,10 +47,5 @@
 ### 🌐 Connect with Me
 When I'm not writing code or studying algorithms, I'm creating educational content for my community. Let's connect!
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/rasheed-ahmad-ml-engineer-b56037311/](#)
 - 📧 **Email:** rasheedahmad890127@gmail.com
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
