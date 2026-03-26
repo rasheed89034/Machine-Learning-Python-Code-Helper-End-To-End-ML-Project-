@@ -1,4 +1,4 @@
-# Machine-Learning-Pyhton-Code-Helper-End-To-End-ML-Project
+# Machine-Learning-Python-Code-Helper-End-To-End-ML-Project
 
 <h1 align="center">Hi there 👋, I'm Rasheed Ahmad</h1>
 <h3 align="center">Machine Learning Developer | Content Creator</h3>
