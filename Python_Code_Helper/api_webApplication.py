@@ -169,7 +169,7 @@ def create_gauge_chart(score):
 # --- SIDEBAR ---
 with st.sidebar:
     st.title("👨🏻‍💻 Developer Profile")
-    st.markdown("**Name:** Muhammad Bilal")
+    st.markdown("**Name:** Rasheed Ahmad")
     st.markdown("**Role:** Robotic Engineer & ML Dev")
     st.divider() 
     st.title("🚀 About Project")
